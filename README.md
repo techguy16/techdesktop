@@ -1,7 +1,7 @@
-gnome-desktop
+techdesktop
 =============
 
-gnome-desktop contains the libgnome-desktop library as well as a data
+techdesptop contains the libgnome-desktop library as well as a data
 file that exports the "GNOME" version to the Settings Details panel.
 
 The libgnome-desktop library provides API shared by several applications
@@ -10,10 +10,6 @@ reasons. There is no API or ABI guarantee, although we are doing our
 best to provide stability. Documentation for the API is available with
 gtk-doc.
 
-You may download updates to the package from [download.gnome.org](https://download.gnome.org/sources/gnome-desktop/).
-
-To discuss gnome-desktop, you may use the Platform group of [GNOME's
-Discourse instance](https://discourse.gnome.org/c/platform/5).
 
 Installation
 ============
